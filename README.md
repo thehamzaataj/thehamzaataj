@@ -1,11 +1,11 @@
-[![MasterHead](<a href="[/gif/music-for-programming-coding-concentration-with-visuals-2-hours-ZCsjru" title="Music for programming // coding // concentration with VISUALS [ 2-HOURS ]"><img src="https://i.makeagif.com/media/5-20-2018/ZCsjru.gif" alt="Music for programming // coding // concentration with VISUALS [ 2-HOURS ]"></a><div style="font-size:11px;">make <a href="/" title="make a gif">action GIFs</a> like this at MakeaGif</div>](https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC))](https://my-portfolio-two-rouge.vercel.app/)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQFAdOrAQe1HEA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674661110?e=1736380800&v=beta&t=I9dajf3QPmKzyC1Ve4FjyylRF9ryMjWuKa_cYpnlVGk)](https://my-portfolio-two-rouge.vercel.app/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=22&color=000&size=24&center=true&lines=Hi+there+%F0%9F%91%8B%2C++I'am+Jawad+Hassan+Khan;Welcome+to+my+Profile!;I'm+MERN+Full+stack+developer;I+enjoy+learning+new+things)](https://git.io/typing-svg)
 <h3 align="center">A passionate full stack MERN Developer as well as Java , Python developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawadhassan100&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jawadhassan100" /> </p>
 
-- 👨‍💻 I’m a *MERN* Full Stack Developer.
+- 👨‍💻 I’m a Full Stack Software Developer.
 
 - 💬 Ask me about *MERN Stack, Java , Spring Boot , Next.js ,Python*
 
