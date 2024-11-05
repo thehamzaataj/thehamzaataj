@@ -1,5 +1,4 @@
-[![MasterHead][(https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://my-portfolio-two-rouge.vercel.app/](https://i.makeagif.com/media/5-20-2018/ZCsjru.gif))
-
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://my-portfolio-two-rouge.vercel.app/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=22&color=000&size=24&center=true&lines=Hi+there+%F0%9F%91%8B%2C++I'am+Jawad+Hassan+Khan;Welcome+to+my+Profile!;I'm+MERN+Full+stack+developer;I+enjoy+learning+new+things)](https://git.io/typing-svg)
 <h3 align="center">A passionate full stack MERN Developer as well as Java , Python developer from Pakistan</h3>
@@ -47,6 +46,6 @@
 
 ## ⚡ GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thehamzaataj&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jawadhassan100" height="185" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehamzaataj&show_icons=true&theme=tokyonight&locale=en" alt="jawadhassan100" height="185" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehamzaataj&theme=tokyonight" alt="jawadhassan100" /></p> <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jawadhassan100&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jawadhassan100" height="185" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jawadhassan100&show_icons=true&theme=tokyonight&locale=en" alt="jawadhassan100" height="185" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jawadhassan100&theme=tokyonight" alt="jawadhassan100" /></p> <br/>
