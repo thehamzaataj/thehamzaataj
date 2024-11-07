@@ -1,4 +1,6 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQFAdOrAQe1HEA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674661110?e=1736380800&v=beta&t=I9dajf3QPmKzyC1Ve4FjyylRF9ryMjWuKa_cYpnlVGk)](https://my-portfolio-two-rouge.vercel.app/)
+<div style="text-align: center;">
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQFAdOrAQe1HEA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674661110?e=1736380800&v=beta&t=I9dajf3QPmKzyC1Ve4FjyylRF9ryMjWuKa_cYpnlVGk" alt="Master Head" height="600">
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=22&color=000&size=24&center=true&lines=Hi+there+%F0%9F%91%8B%2C++I'am+Jawad+Hassan+Khan;Welcome+to+my+Profile!;I'm+MERN+Full+stack+developer;I+enjoy+learning+new+things)](https://git.io/typing-svg)
 <h3 align="center">A passionate full stack MERN Developer as well as Java , Python developer from Pakistan</h3>
