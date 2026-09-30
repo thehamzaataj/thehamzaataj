@@ -2,10 +2,9 @@
 
 # 👋 Hi, I'm Hamza Taj
 
-### Full Stack Developer
-
+### Software Engineer | MERN Stack Developer | Next.js
 <p>
-Passionate Full Stack Developer from Pakistan, building scalable web applications and modern eCommerce solutions.
+Passionate MERN Stack Developer from Pakistan, specializing in building scalable, responsive, and modern web applications. Experienced in developing full-stack solutions using MongoDB, Express.js, React.js, and Node.js. I focus on creating clean user interfaces, efficient backend APIs, and high-performance applications with a strong emphasis on code quality, user experience, and scalability. Passionate about solving real-world problems, learning new technologies, and transforming ideas into reliable digital solutions.
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+Developer;Shopify+Developer;Always+Learning+New+Technologies" />
@@ -76,18 +75,6 @@ Modern Full Stack Recruitment Platform
 ### 🛍️ E-commerce Platform
 
 Sales Dashboard • Analytics • Order Management
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
